@@ -1,1 +1,3 @@
 # Data-Mining-Project
+
+The project follows a structured data mining pipeline, starting with exploratory data analysis and data preprocessing, followed by feature selection and model development. Four classification algorithms—Logistic Regression, Decision Tree, Random Forest, and XGBoost—are trained and evaluated through cross-validation. The models are compared using Accuracy, Precision, Recall, F1-score, ROC-AUC, and confusion matrices, followed by hyperparameter tuning and final evaluation on an unseen test set. Among the evaluated approaches, XGBoost provided the strongest overall performance, achieving approximately 95.2% accuracy and 98.9% ROC-AUC.
